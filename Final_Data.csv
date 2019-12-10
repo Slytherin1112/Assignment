@@ -1,4 +1,4 @@
-Income ,Limit,Limit to Income Ratio,Rating,Cards,Age,Education,Gender,Student,Married,Balance,Debt Ratio,Default 
+Income,Limit,Limit_to_Income_Ratio,Rating,Cards,Age,Education,Gender,Student,Married,Balance,Debt_Ratio,Default 
 14891,3606,0.24,283,2,34,2,Male,No,Yes,333,,No
 106025,6645,0.06,483,3,82,3,Female,Yes,Yes,903,,No
 104593,7075,0.07,514,4,71,2,Male,No,No,580,,No
