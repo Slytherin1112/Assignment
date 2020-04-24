@@ -1,4 +1,4 @@
-﻿Country,ISO,Sex,Year of birth,Mean height (cm),Mean height lower 95% uncertainty interval (cm),Mean height upper 95% uncertainty interval (cm)
+﻿Country,ISO,Sex,Year of birth,Meanheight,Mean height lower 95% uncertainty interval (cm),Mean height upper 95% uncertainty interval (cm)
 China,CHN,Men,1896,160.9729313,159.1951595,162.7386606
 China,CHN,Men,1897,161.1257916,159.4570841,162.7792177
 China,CHN,Men,1898,161.2790657,159.7259449,162.8199982
